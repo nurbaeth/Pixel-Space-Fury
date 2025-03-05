@@ -11,7 +11,7 @@
 ## 🛠 Installation
 1. Make sure you have **Python 3.8+** installed.
 2. Install Pygame:
-   ```sh
+   ```sh 
    pip install pygame
    ``` 
 3. Clone the repository:
