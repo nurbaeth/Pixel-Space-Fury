@@ -13,7 +13,7 @@
 2. Install Pygame:
    ```sh 
    pip install pygame
-   ```  
+   ```   
 3. Clone the repository:   
    ```sh
    git clone https://github.com/yourusername/pixel-space-fury.git
