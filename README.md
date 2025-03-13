@@ -10,7 +10,7 @@
 
 ## 🛠 Installation
 1. Make sure you have **Python 3.8+** installed.
-2. Install Pygame:
+2. Install Pygame: 
    ```sh 
    pip install pygame
    ```    
