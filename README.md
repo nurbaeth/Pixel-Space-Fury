@@ -9,7 +9,7 @@
 - **Weapon upgrades and power-ups** (coming soon!)
 
 ## 🛠 Installation
-1. Make sure you have **Python 3.8+** installed.
+1. Make sure you have **Python 3.8+** installed. 
 2. Install Pygame: 
    ```sh 
    pip install pygame
