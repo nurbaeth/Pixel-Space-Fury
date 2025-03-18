@@ -5,7 +5,7 @@
 ## 🎮 Features
 - **Endless enemy waves** with increasing difficulty
 - **Fast-paced action** with responsive controls
-- **Pixel art graphics** and retro sound effects
+- **Pixel art graphics** and retro sound effects 
 - **Weapon upgrades and power-ups** (coming soon!)
 
 ## 🛠 Installation
