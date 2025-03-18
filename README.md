@@ -16,7 +16,7 @@
    ```     
 3. Clone the repository:    
    ```sh
-   git clone https://github.com/yourusername/pixel-space-fury.git
+   git clone https://github.com/yourusername/pixel-space-fury.git 
    ```
 4. Navigate to the project folder:
    ```sh
